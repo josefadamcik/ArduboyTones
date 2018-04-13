@@ -1,3 +1,8 @@
+# SLIMBOY - ArduboyTones port to Arduino Nano
+
+This is a port of the original ArduboyTones code to the simpler and cheaper
+Arduino Nano. See https://github.com/harbaum/Arduboy2 for more details.
+
 # The ArduboyTones Library
 
 The ArduboyTones library is maintained in a git repository hosted on [GitHub](https://github.com/) at:
