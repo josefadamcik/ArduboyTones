@@ -93,7 +93,7 @@ THE SOFTWARE.
   // the Arduboy is wired. Allows tones of a higher volume to be produced.
   // If commented out only one speaker pin will be used. The other speaker
   // lead should be attached to ground.
-  #define TONES_2_SPEAKER_PINS
+  // #define TONES_2_SPEAKER_PINS
   // *******************************
 
   // ***** VOLUME HIGH/NORMAL SUPPORT *****
@@ -102,7 +102,7 @@ THE SOFTWARE.
   // Normal volume is produced by leaving the second pin low.
   // Comment this out for only normal volume support, which will slightly
   // reduce the code size.
-  #define TONES_VOLUME_CONTROL
+  // #define TONES_VOLUME_CONTROL
   // **************************************
 
   #ifdef TONES_VOLUME_CONTROL
